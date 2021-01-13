@@ -32,7 +32,7 @@ public class Killer {
     public void stuneado() {
         if (stuneado == true) {
             velocidad = 0;
-            System.out.println("Te han stuneado");
+            System.out.println("Te han stuneado!");
         } else {
             System.out.println("No te han stuneado");
         }
